@@ -1,0 +1,34 @@
+{
+  "name": "todolist-api",
+  "version": "1.0.0",
+  "description": "REST API api for todoList",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "Todo-List"
+  ],
+  "author": "Antonius Wibisono",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-enrouten": "^1.3.0",
+    "lodash": "^4.17.15",
+    "nconf": "^0.10.0",
+    "pg": "^7.12.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "sequelize": "^5.19.0",
+    "sequelize-cli": "^5.5.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.4.0",
+    "mocha": "^6.2.0"
+  }
+}

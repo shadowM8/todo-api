@@ -1,0 +1,13 @@
+{
+  "APP":"__APP__",
+  "AUTH0_SECRET":"__APP__",
+  "AUTH0_ID":"__APP__",
+  "DB_HOST": "__DB_HOST__",
+  "DB_PORT": "__DB_PORT__",
+  "DB_NAME": "__DB_NAME__",
+  "DB_USER": "__DB_USER__",
+  "DB_PASS": "__DB_PASS__",
+  "DB_DIALECT": "__DB_DIALECT__",
+  "PORT": "__PORT__",
+  "USER_MGT": "__USER_MGT__"
+}
